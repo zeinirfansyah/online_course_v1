@@ -1,2 +1,2 @@
 # online_course_v1
- Online Course
+Tugas pemrograman web (Semester3), membuat website online course sederhana.
